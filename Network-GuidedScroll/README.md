@@ -13,15 +13,15 @@ network connectivity, firewall settings, VPN access, and system diagnostics in W
 ---
 ## Quick Access  
 Jump to a section in the script:  
-1️⃣ [Basic Network Information](https://github.com/balladbydragons/powershell-guided-scrolls/tree/mains/tree/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L5)  
-2️⃣ [DNS & IP Configuration](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L7)  
-3️⃣ [Network Connectivity & Troubleshooting](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScrolls.ps#L22)
-4️⃣ [Network Reset & Adapter Troubleshooting](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L34)  
-5️⃣ [Open Ports & Firewall Rules](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L44)  
-6️⃣ [Advanced Diagnostics & Logs](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L56)  
-7️⃣ [VPN Troubleshooting & Configuration](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L64)  
-8️⃣ [Wireless Network & Wi-Fi Diagnostics](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L82)  
-9️⃣ [Additional PowerShell Networking Tools](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L88)  
+1️⃣ [Basic Network Information](https://github.com/balladbydragons/powershell-guided-scrolls/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L5)  
+2️⃣ [DNS & IP Configuration](https://github.com/balladbydragons/powershell-guided-scrolls/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L7)  
+3️⃣ [Network Connectivity & Troubleshooting](https://github.com/balladbydragons/powershell-guided-scrolls/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L22)  
+4️⃣ [Network Reset & Adapter Troubleshooting](https://github.com/balladbydragons/powershell-guided-scrolls/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L34)  
+5️⃣ [Open Ports & Firewall Rules](https://github.com/balladbydragons/powershell-guided-scrolls/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L44)  
+6️⃣ [Advanced Diagnostics & Logs](https://github.com/balladbydragons/powershell-guided-scrolls/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L56)  
+7️⃣ [VPN Troubleshooting & Configuration](https://github.com/balladbydragons/powershell-guided-scrolls/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L64)  
+8️⃣ [Wireless Network & Wi-Fi Diagnostics](https://github.com/balladbydragons/powershell-guided-scrolls/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L82)  
+9️⃣ [Additional PowerShell Networking Tools](https://github.com/balladbydragons/powershell-guided-scrolls/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L88)  
 ---
 
 ## **Features**  
