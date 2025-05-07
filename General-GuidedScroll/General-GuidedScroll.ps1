@@ -1,15 +1,11 @@
-<#
- .SYNOPSIS
-    PowerShell Cheatsheet for System Administration.
- .DESCRIPTION
-    This script provides a collection of commands for user management, 
-    Active Directory operations, permissions handling, and service monitoring. 
-    Designed to streamline system administration tasks.
- .AUTHOR
-    Your Name
- .NOTES
-    Replace placeholders (e.g., `<username>`, `<hostname>`) with actual values for your environment.
-#>
+################################################################################
+# General GuidedScrolls – PowerShell for System Administration
+# Author: Helen Najar
+# Guided by the hand of a Lionheart — Ballad by Dragons
+# Purpose: A curated scroll of essential PowerShell commands for managing users,
+#          Active Directory, permissions, services, cleanup, and admin tasks—
+#          designed to simplify workflows and echo mastery through command.
+################################################################################
 
 # -----------------------
 # User Management

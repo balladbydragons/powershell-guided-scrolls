@@ -40,3 +40,5 @@ This Guided Scroll contains curated PowerShell commands for managing Office 365 
 ## **License**
 
 This project is licensed under the [MIT License](https://github.com/balladbydragons/Powershell-Guided-Scrolls/blob/main/LICENSE.md).
+
+Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)

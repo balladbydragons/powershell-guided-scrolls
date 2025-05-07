@@ -44,4 +44,8 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/balladbydragons/Powershell-Scripts/blob/main/LICENSE.md) file for details.
-```
+
+Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)
+
+## **Contact**
+For questions or suggestions, refer to the [main README](https://github.com/balladbydragons/Exchange-Hybrid-Tools/blob/main/README.md)

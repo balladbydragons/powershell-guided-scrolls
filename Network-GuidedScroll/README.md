@@ -13,8 +13,8 @@ network connectivity, firewall settings, VPN access, and system diagnostics in W
 ---
 ## Quick Access  
 Jump to a section in the script:  
-1️⃣ [Basic Network Information](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L5)  
-2️⃣ [DNS & IP Configuration](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L7)
+1️⃣ [Basic Network Information](https://github.com/balladbydragons/powershell-guided-scrolls/tree/mains/tree/main/Network-GuidedScroll/Network-GuidedScroll.ps1#L5)  
+2️⃣ [DNS & IP Configuration](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L7)  
 3️⃣ [Network Connectivity & Troubleshooting](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScrolls.ps#L22)
 4️⃣ [Network Reset & Adapter Troubleshooting](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L34)  
 5️⃣ [Open Ports & Firewall Rules](https://github.com/balladbydragons/Network-GuidedScroll/blob/main/Network-GuidedScroll/Network-GuidedScroll.ps#L44)  
@@ -171,3 +171,5 @@ This script is provided **as-is**. Always **test in a controlled environment** b
 
 ## **License**  
 This project is licensed under the [MIT License](https://github.com/balladbydragons/Powershell-Guided-Scrolls/blob/main/LICENSE.md).
+
+Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)
