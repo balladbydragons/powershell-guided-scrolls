@@ -41,11 +41,17 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 - PowerShell (v5.0 or later recommended).
 - Administrative permissions to execute advanced scripts
 
-## License
-
+## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/balladbydragons/Powershell-Scripts/blob/main/LICENSE.md) file for details.
 
 Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)
 
-## **Contact**
-For questions or suggestions, refer to the [main README](https://github.com/balladbydragons/Exchange-Hybrid-Tools/blob/main/README.md)
+## 📬 Contact
+
+For inquiries, feedback, or collaboration opportunities:
+
+- **LinkedIn**: [Helen Najar](https://www.linkedin.com/in/helen-najar)  
+- **Website**: [BalladByDragons.org/contact](https://www.balladbydragons.org/contact)  
+- **GitHub**: [@balladbydragons](https://github.com/balladbydragons)  
+
+Whether you're a fellow IT specialist, a seeker of poetic code, or someone in need of Exchange or automation solutions—I'm open to connect.
